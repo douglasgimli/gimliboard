@@ -1,0 +1,57 @@
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#myBoard {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Board styles
+   ========================================================================== */
+
+.gimliBoard {
+}
+
+.gimliDealer {
+    position: relative;
+
+    width: 100%;
+    height: 100%;
+}
+
+.gimliCard {
+    position: absolute;
+    top: 0;
+
+    width: 50%;
+
+    /*-o-transition:1s ease-in-out;
+    -ms-transition:1s ease-in-out;
+    -moz-transition:1s ease-in-out;
+    -webkit-transition:1s ease-in-out;
+    transition:1s ease-in-out;*/
+}
+.gimliCard img {
+    width: 100%;
+    height: 100%;
+}
